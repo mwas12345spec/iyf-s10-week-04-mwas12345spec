@@ -54,7 +54,7 @@ let message = `Your name has ${firstName.length} characters`;
 console.log(fullName.toUpperCase());
 console.log(fullName.toLowerCase());
 console.log(firstName.charAt(0));
-console.log(fullName.includes("John"));
+console.log(fullName.includes("George"));
 
 // Comparison
 console.log(5 > 3);
